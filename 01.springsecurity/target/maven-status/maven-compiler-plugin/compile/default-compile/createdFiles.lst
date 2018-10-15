@@ -1,0 +1,5 @@
+cn\sm1234\security\MyAuthenticationSuccessHandler.class
+cn\sm1234\controller\MainController.class
+cn\sm1234\security\MyUserDetailService.class
+cn\sm1234\controller\ProductController.class
+cn\sm1234\security\MyAuthenticationFailureHandler.class
